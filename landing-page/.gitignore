@@ -13,3 +13,5 @@ dist/me.png
 !server.js
 !tailwind.config.js
 !webpack.config.js
+!Dockerfile
+!postcss.config.js
