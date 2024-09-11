@@ -1,0 +1,12 @@
+# Exclude everything
+*
+
+# Allowed
+!.gitignore
+!src/
+!dist/
+!package.json
+!package-lock.json
+!server.js
+!tailwind.config.js
+!webpack.config.js
