@@ -6,11 +6,11 @@ The `prototyping` directory is not required - it holds the python scripts I used
 ## Features
 
 - **Express**: Serves the application.
+- **simplex-noise**: Used for the 3D graphics noise generation.
 - **Three.js**: Renders 3D graphics.
 - **Tailwind CSS**: Provides utility-first CSS framework.
 - **Bootstrap Icons**: For the vector icons used.
 - **Webpack**: Bundles the application.
-- **OpenSimplex**: Used for the 3D graphics noise generation.
 
 ## Installation
 
