@@ -1,10 +1,13 @@
 # Exclude everything
 *
+dist/me.png
 
 # Allowed
 !.gitignore
 !src/
 !dist/
+!src/**/*
+!dist/**/*
 !package.json
 !package-lock.json
 !server.js
