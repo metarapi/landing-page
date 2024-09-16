@@ -1,16 +1,3 @@
-# Exclude everything
-*
-
-# Allowed
-!.gitignore
-!landing-page/src/
-!landing-page/dist/
-!landing-page/src/**/*
-!landing-page/dist/**/*
-!landing-page/package.json
-!landing-page/package-lock.json
-!landing-page/server.js
-!landing-page/tailwind.config.js
-!landing-page/webpack.config.js
-!landing-page/Dockerfile
-!landing-page/postcss.config.js
+node_modules/
+examples_and_backup/
+svg/
